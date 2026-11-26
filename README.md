@@ -23,7 +23,7 @@
 ### 一键安装
 
 ```bash
-git clone https://github.com/<your-username>/ai-studio-banana.git
+git clone https://github.com/amaki-aria/ai-studio-banana.git
 cd ai-studio-banana
 node setup.mjs
 ```
