@@ -1,0 +1,11 @@
+{
+  "name": "ai-studio-banana",
+  "displayName": "AI Studio Banana 绘图",
+  "version": "1.1.0",
+  "description": "使用 Google AI Studio 或中转站 API Key 调用 Nano Banana（Gemini 原生/Chat）及 OpenAI（gpt-image-*）系列模型生图与改图，独立于 Antigravity 自带绘图额度。",
+  "suggestedPrompts": [
+    "配置我的 Google AI Studio API Key 以便使用 Banana 绘图",
+    "用 AI Studio Banana 模型画一张赛博朋克风格的夜景插画（16:9）",
+    "查看当前 AI Studio Banana 支持的模型和配置状态"
+  ]
+}
